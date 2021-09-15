@@ -48,7 +48,10 @@ namespace Assignment1
 
         public static IEnumerable<string> InnerText(string html, string tag)
         {
+            //did not managed to make this Regex 
+            
             throw new NotImplementedException();
+
         }
     }
 }
